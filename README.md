@@ -11,9 +11,8 @@
 
 Hi, I'm José Luiz Coe, a passionate self-taught frontEnd web developer from Brazil.
 
-- <img align="left" alt="Getninjas" width="21px" src="https://avatars3.githubusercontent.com/u/1795097?s=21" /> I’m currently working at [Getninjas](https://github.com/getninjas)
-- <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"> I’m currently learning GraphQL & Typescript
-- 💬 Ask me about anything [here](https://github.com/joseluizcoe/joseluizcoe/issues)
+- I’m currently working at [Getninjas](https://github.com/getninjas), learning GraphQL & Typescript. I'm also [Youtuber](https://youtube.com/joseluizcoe) and [Family Photographer](https://jlcoe.com).
+- 💬   Ask me about anything [here](https://github.com/joseluizcoe/joseluizcoe/issues)
 
 **Languages and Tools:**  
 
