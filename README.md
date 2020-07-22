@@ -1,24 +1,19 @@
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+### Hi, I'm [José Luiz Coe!](https://www.joseluizcoe.com)
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+<p>
+  <a href="https://youtube.com/joseluizcoe">
+    <img align="left" alt="José Luiz Coe | Twitter" width="21px" src="https://raw.githubusercontent.com/joseluizcoe/joseluizcoe/master/assets/youtube.svg" />
+  </a>
+  <a href="https://twitter.com/joseluizcoe">
+    <img align="left" alt="José Luiz Coe | Twitter" width="21px" src="https://raw.githubusercontent.com/joseluizcoe/joseluizcoe/master/assets/twitter.svg" />
+  </a>
+</p>
 
-<br />
-<br />
+Hi, I'm José Luiz Coe, a passionate self-taught frontEnd web developer from Brazil.
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
-
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
+- 🔭 I’m currently working on [Getninjas](https://github.com/getninjas)
 - 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/joseluizcoe/joseluizcoe/issues)
 
 **Languages and Tools:**  
 
@@ -37,19 +32,19 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/joseluizcoe/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluizcoe&theme=default&hide_langs_below=1" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+<a href="https://github.com/joseluizcoe/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluizcoe&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+<a href="https://github.com/joseluizcoe/github-readme-stats">
+  <!-- Change the `github-readme-stats.joseluizcoe.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseluizcoe&repo=github-readme-stats&theme=radical" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
+<a href="https://github.com/joseluizcoe/joseluizcoe.github.io">
+  <!-- Change the `github-readme-stats.joseluizcoe.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseluizcoe&repo=joseluizcoe.github.io&theme=radical" />
 </a>
