@@ -39,3 +39,7 @@ Hi, I'm José Luiz Coe, a passionate self-taught frontEnd web developer from Bra
 <a href="https://github.com/joseluizcoe/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluizcoe&show_icons=true&theme=default&line_height=27" alt="José Luiz Coe's github stats" />
 </a>
+
+
+___
+*If you are a developer looking for readme like this, [see the original from Anura](https://github.com/anuraghazra/anuraghazra)
