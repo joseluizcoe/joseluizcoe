@@ -7,7 +7,7 @@
 Hi, I'm José Luiz Coe, a self-taught front end web developer from Brazil.
 
 - I’m currently working at  [Getninjas](https://github.com/getninjas) as a front end specialist. I'm also [Youtuber](https://youtube.com/joseluizcoe) and [Family Photographer](https://jlcoe.com).
-- 💬   Ask me about anything [here](https://github.com/joseluizcoe/joseluizcoe/issues)
+- 💬   Ask me about anything [here](https://github.com/joseluizcoe/joseluizcoe/issues/new)
 
 **Languages and Tools:**  
 
