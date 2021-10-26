@@ -6,7 +6,8 @@
 
 Hi, I'm José Luiz Coe, a self-taught front end web developer from Brazil.
 
-- I’m currently working at  [Olist](https://github.com/olist) as a Frontend Chapter Leader. I'm also [Youtuber](https://youtube.com/joseluizcoe) and [Family Photographer](https://instagram.com/jlcoefotografia).
+- I’m currently working at  [Olist](https://github.com/olist) as a Frontend Chapter Leader and Tech Coordinator responsible for the Design system and Front-end Platform (in progress) teams, both teams as part of Developer Experience Tribe.
+- I'm also [Youtuber](https://youtube.com/joseluizcoe) and [Family Photographer](https://instagram.com/jlcoefotografia).
 - 💬   Ask me about anything [here](https://github.com/joseluizcoe/joseluizcoe/issues/new)
 
 **Languages and Tools:**  
