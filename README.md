@@ -32,16 +32,5 @@ Hi, I'm José Luiz Coe, a self-taught front end web developer from Brazil.
 | <a href="https://github.com/joseluizcoe/joseluizcoe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluizcoe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/joseluizcoe/joseluizcoe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluizcoe&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/joseluizcoe/joseluizcoe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseluizcoe&repo=joseluizcoe&theme=buefy" />
-</a>
-<a href="https://github.com/joseluizcoe/joseluizcoe.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseluizcoe&repojoseluizcoe.com&theme=buefy" />
-</a>
-
-<br />
 ___
 *If you are a developer looking for readme like this, [see the original from Anura](https://github.com/anuraghazra/anuraghazra)
