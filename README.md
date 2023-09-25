@@ -4,9 +4,9 @@
 [<img alt="José Luiz Coe | Linkedin" width="21px" src="https://raw.githubusercontent.com/joseluizcoe/joseluizcoe/master/assets/linkedin.png" />](https://linkedin.com/in/joseluizcoe)
 [<img alt="José Luiz Coe | Twitter" width="21px" src="https://raw.githubusercontent.com/joseluizcoe/joseluizcoe/master/assets/twitter.svg" />](https://twitter.com/joseluizcoe)
 
-Hi, I'm José Luiz Coe, a self-taught front end web developer from Brazil.
+Hi, I'm José Luiz Coe, a self-taught front-end web developer from Brazil.
 
-- I’m currently working at  [Olist](https://github.com/olist) as a Frontend Chapter Leader and Tech Coordinator responsible for the Design system and Front-end Platform (in progress) teams, both teams as part of Developer Experience Tribe.
+- I’m currently working at  [Loggi](https://github.com/loggi) as a Staff Software Engineer with a focus on front-end development.
 - I'm also [Youtuber](https://youtube.com/joseluizcoe) and [Family Photographer](https://instagram.com/jlcoefotografia).
 - 💬   Ask me about anything [here](https://github.com/joseluizcoe/joseluizcoe/issues/new)
 
@@ -25,7 +25,7 @@ Hi, I'm José Luiz Coe, a self-taught front end web developer from Brazil.
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
 
@@ -33,4 +33,4 @@ Hi, I'm José Luiz Coe, a self-taught front end web developer from Brazil.
 | ------------- | ------------- |
 
 ___
-*If you are a developer looking for readme like this, [see the original from Anura](https://github.com/anuraghazra/anuraghazra)
+*If you are a developer looking for a readme like this, [see the original from Anura](https://github.com/anuraghazra/anuraghazra)
