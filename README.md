@@ -7,7 +7,7 @@
 Hi, I'm José Luiz Coe, a self-taught front-end web developer from Brazil.
 
 - I’m currently working at  [Loggi](https://github.com/loggi) as a Staff Software Engineer with a focus on front-end development.
-- I'm also [Youtuber](https://youtube.com/joseluizcoe) and [Family Photographer](https://instagram.com/jlcoefotografia).
+- I'm also [Master Swimmer](https://www.cbda.org.br/atleta/natacao/394261/jose-luiz-coe-souza), [Youtuber](https://youtube.com/joseluizcoe) and [Family Photographer](https://instagram.com/jlcoefotografia).
 - 💬   Ask me about anything [here](https://github.com/joseluizcoe/joseluizcoe/issues/new)
 
 **Languages and Tools:**  
