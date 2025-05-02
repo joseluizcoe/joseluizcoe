@@ -1,8 +1,4 @@
-### Hi, I'm [José Luiz Coe!](https://www.joseluizcoe.com)
-
-[<img alt="José Luiz Coe | Youtube" width="21px" src="https://raw.githubusercontent.com/joseluizcoe/joseluizcoe/master/assets/youtube.png" />](https://youtube.com/joseluizcoe) 
-[<img alt="José Luiz Coe | Linkedin" width="21px" src="https://raw.githubusercontent.com/joseluizcoe/joseluizcoe/master/assets/linkedin.png" />](https://linkedin.com/in/joseluizcoe)
-[<img alt="José Luiz Coe | Twitter" width="21px" src="https://raw.githubusercontent.com/joseluizcoe/joseluizcoe/master/assets/twitter.svg" />](https://twitter.com/joseluizcoe)
+### Hi, I'm [José Luiz Coe!](https://www.joseluizcoe.com) [<img alt="José Luiz Coe | Linkedin" width="21px" src="https://raw.githubusercontent.com/joseluizcoe/joseluizcoe/master/assets/linkedin.png" />](https://linkedin.com/in/joseluizcoe)
 
 Hi, I'm José Luiz Coe, a self-taught front-end web developer from Brazil.
 
