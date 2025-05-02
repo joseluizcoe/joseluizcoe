@@ -6,8 +6,8 @@
 
 Hi, I'm José Luiz Coe, a self-taught front-end web developer from Brazil.
 
-- I’m currently working at  [Loggi](https://github.com/loggi) as a Staff Software Engineer with a focus on front-end development.
-- I'm also [Master Swimmer](https://www.cbda.org.br/atleta/natacao/394261/jose-luiz-coe-souza), [Youtuber](https://youtube.com/joseluizcoe) and [Family Photographer](https://instagram.com/jlcoefotografia).
+- I’m currently working at  [Loggi](https://github.com/loggi) as a Software Engineer Manager at Growth Tribe.
+- I'm also [Master Swimmer](https://www.cbda.org.br/atleta/natacao/394261/jose-luiz-coe-souza).
 - 💬   Ask me about anything [here](https://github.com/joseluizcoe/joseluizcoe/issues/new)
 
 **Languages and Tools:**  
@@ -27,10 +27,3 @@ Hi, I'm José Luiz Coe, a self-taught front-end web developer from Brazil.
 
 *NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-
-
-| <a href="https://github.com/joseluizcoe/joseluizcoe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluizcoe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/joseluizcoe/joseluizcoe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluizcoe&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-___
-*If you are a developer looking for a readme like this, [see the original from Anura](https://github.com/anuraghazra/anuraghazra)
