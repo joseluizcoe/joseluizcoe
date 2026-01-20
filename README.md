@@ -26,7 +26,7 @@ Sport is not a hobby for me — it’s a long-term practice that shapes how I de
 
 ---
 
-📍 São Paulo, Brazil  
+📍 Brazil  
 🔗 LinkedIn: https://br.linkedin.com/in/joseluizcoe  
 🌐 Website: https://joseluizcoe.com.br
 
